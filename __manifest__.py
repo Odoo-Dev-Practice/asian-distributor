@@ -11,7 +11,7 @@
     'author': "Fairw",
     'category': 'Sales/Custom',
     'version': '18.0.1.0.0',
-    'depends': ['base', 'stock', 'sale_management'],
+    'depends': ['base', 'stock', 'sale_management', 'purchase'],
     'data': [
         'security/security_groups.xml',
         'security/ir_rule.xml',
